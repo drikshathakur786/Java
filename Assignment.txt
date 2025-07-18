@@ -1,0 +1,223 @@
+1. History & Features, JVM, JDK
+Likely MCQs only — no coding questions asked here.
+
+2–3. Compiling & Basics
+MCQ only zone — but revise:
+
+public static void main(String[] args) usage
+
+Identify valid identifiers, keywords, primitive data types, and operators
+
+4–5. Control Statements (if-else, loops, switch)
+Coding Practice (Write logic only):
+
+Count digits/uppercase/lowercase in a string
+
+Print number pattern (pyramid, Pascal triangle)
+
+FizzBuzz (classic)
+
+Find factorial/prime/palindrome
+
+Nested loops: matrix pattern printing (diamond, square, etc.)
+
+Print reverse number or string
+
+6–7. Arrays (1D, 2D, Jagged)
+Practice Questions (logic only):
+
+Rotate array by k elements (LeetCode #189)
+
+Two Sum (LeetCode #1)
+
+Dutch National Flag Problem (ST1)
+
+Matrix Zeroes (ST2) → LeetCode #73
+
+Spiral Matrix Print
+
+Find duplicate number (Floyd's cycle)
+
+Search in rotated sorted array
+
+Subarray with max sum (Kadane’s)
+
+8–9. Strings + StringBuilder + StringTokenizer
+Key Practice:
+
+Reverse words in a sentence
+
+String compression ("aaabbc" → "a3b2c1")
+
+Check anagram
+
+Longest Palindromic Substring (LC #5)
+
+Valid Parentheses (LC #20)
+
+Use StringBuilder to reverse and compare
+
+Use StringTokenizer to count words
+
+10–12. Classes, Constructors, Wrapper Classes
+Practice:
+
+Create Student class with:
+
+Default, parameterized & copy constructor
+
+Use of wrapper classes (e.g. Integer, Double)
+
+Object creation and manipulation
+
+this keyword use in constructor chaining
+
+ST2: Implement Student class using multilevel inheritance
+
+✅ May 28 – Topics to Cover (OOPs, Interfaces, Exception, Utilities, File I/O)
+13–14. Static, Instance, Method Overloading
+Practice:
+
+Create a Calculator class:
+
+Static vs instance methods
+
+Overload add() for different parameters
+
+Use of this to resolve ambiguity
+
+15–16. Inheritance, Overriding
+Practice:
+
+Parent-child class with overriding
+
+Use of super keyword
+
+Multilevel Inheritance for Person -> Student -> Intern
+
+Practice polymorphism via object references
+
+17–18. Polymorphism, final keyword
+Practice:
+
+Dynamic method dispatch with base and derived class
+
+Mark method/variable as final and try overriding
+
+19. Abstract Class
+Practice:
+
+Abstract class Shape, subclasses Circle, Rectangle with area()
+
+Show abstraction through base reference and derived object
+
+20–23. Packages & Interfaces
+Practice:
+
+Create a simple interface Printable, implement in multiple classes
+
+Interface vs Abstract class (MCQ + logic)
+
+Multiple inheritance with interface
+
+Use import for built-in packages
+
+24–25. Exception Handling
+Practice:
+
+Division by zero exception using try-catch
+
+ArrayIndexOutOfBounds and custom exception
+
+Multiple catch and finally block
+
+Create a custom exception InvalidAgeException
+
+26. Regular Expressions
+Practice:
+
+Validate email using Pattern and Matcher
+
+Validate phone number using regex
+
+Match only alphabetic strings
+
+27. Enums
+Practice:
+
+Create enum Day, use in switch-case
+
+Enum with constructor & method
+
+28. Annotations
+Mostly theory/MCQ
+
+Example: Use @Override, @Deprecated
+
+29. Date and Time API + Random
+Practice:
+
+Print current date and time using LocalDateTime
+
+Format date using DateTimeFormatter
+
+Generate random OTP using Random
+
+30. File I/O & Serialization
+Practice:
+
+Read/write to file using FileWriter, BufferedReader
+
+Serialize a Student object
+
+Read file line by line
+
+Byte stream vs Character stream (MCQ)
+
+🔥 Predicting What May Be Asked in This Exam (based on STs):
+5 Marks Coding (4 Qs) – Topics Likely
+Dutch Flag / Matrix Zero (Arrays)
+
+Inheritance-based object problem (OOP)
+
+File I/O logic (BufferedWriter)
+
+String manipulation problem (reverse or compress)
+
+10 Marks Coding (2 Qs) – Topics Likely
+Full-fledged class implementation (Student with Inheritance)
+
+Abstract class or Interface-based logic problem
+
+Exception Handling + Custom Exception + File writing
+
+MCQs (Easy to Medium)
+JVM/JRE/JDK
+
+Keywords, final/static
+
+String immutability
+
+Method Overloading vs Overriding
+
+Try-catch-finally flow
+
+Interface vs abstract
+
+Serialization vs Deserialization
+
+Regex pattern
+
+🧠 Tips for 27–28 May Practice
+No need to write full code – practice only logic and flow.
+
+Focus on:
+
+Problem understanding
+
+Correct method signature
+
+Edge cases
+
+Rehearse answers verbally or write as comments.
+
